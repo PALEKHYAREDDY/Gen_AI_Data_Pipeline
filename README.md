@@ -8,7 +8,7 @@ Below is a step-by-step explanation of the data pipeline implemented in `pipelin
 
 Step 1: Data Reading (Ingestion)
 
-To read the `yellow_tripdata_2022-01.parquet` file using Apache Spark, follow these steps below:
+To read the `yellow_tripdata_2022-01.parquet` file downloaded from https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page using Apache Spark, follow these steps below:
 
 1. Import required libraries and create a SparkSession to work with the Spark DataFrames:
 
